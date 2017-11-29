@@ -29,7 +29,7 @@ import './assets/css/product.css'
 
 // import './assets/css/cart.css'
 // 使用Axios库，实际上就是给vue的实例原型上面添加一个$http和axios属性
-Vue.use(VueAxios, b)
+Vue.use(VueAxios, axios)
 axios.defaults.baseURL = apiConfig.baseUrl
 // 使用无限滚动插件
 Vue.use(VueInfiniteScroll)
