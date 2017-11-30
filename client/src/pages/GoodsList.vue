@@ -1,7 +1,7 @@
 <template lang="html">
    <div>
       <nav-bread>
-        <span>热门商品</span>
+        <span>热门商品难道是我加错了？？？</span>
       </nav-bread>
       <div class="accessory-result-page accessory-page">
         <div class="container">
